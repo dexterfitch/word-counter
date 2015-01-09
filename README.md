@@ -1,5 +1,4 @@
 Word Counter!
-
 by Dex Fitch
 
 
@@ -16,5 +15,4 @@ To use Word Counter!, download all of the project files to your machine and, ass
 LICENSE
 
 MIT License. This is free to copy, reproduce, and fiddle with.
-
 Copyright (c) 2015 dexfitch.
