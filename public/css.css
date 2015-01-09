@@ -1,7 +1,33 @@
 body {
-	font-family: 'NTR', sans-serif;
+	text-align: center;
+	background: #EEE;
 }
 
 h1 {
 	font-family: 'Arbutus Slab', serif;
+	margin-bottom: 50px;
+}
+
+.container {
+	background: #D2EDF6;
+	width: 50%;
+	margin-top: 10%;
+	border: 3px dashed #666;
+	border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+}
+
+.form-group {
+	margin-bottom: 50px;
+}
+
+.btn {
+	color: #FFF;
+	background: #FB5C72;
+	margin-bottom: 35px;
+}
+
+.result {
+	padding: 10px;
 }
